@@ -8,7 +8,6 @@ target/
 mvnw
 mvnw.cmd
 
-
 ### STS ###
 .apt_generated
 .classpath
