@@ -1,4 +1,4 @@
-package com.micro.Microservices;
+package com.micro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,7 +9,4 @@ public class MicroservicesApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MicroservicesApplication.class, args);
 	}
-
-	//inital commit
-	// ye bhi inital commit
 }
